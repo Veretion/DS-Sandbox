@@ -9,7 +9,7 @@
 
 
 # [3D Визуализация Изображений](https://github.com/Veretion/3d-image-visualization) 
-Просто конвертация изображений в 3-х мерный график
+Просто конвертация изображений в 3-х мерный график <br>
 <img src="/3d_images/example.png" alt="Оригинал" width="300" height="200">
 <img src="/3d_images/2.PNG" alt="1" width="300" height="200">
 <img src="/3d_images/1.PNG" alt="2" width="300" height="200">
