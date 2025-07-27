@@ -2,20 +2,13 @@
 
 Сортировка идёт по убыванию масштаба задачи или интереса к ним
 
-# Система мониторинга
+## Система мониторинга
 Информация только по запросу
 
+## [3D Визуализация Изображений](https://github.com/Veretion/3d-image-visualization) 
+Просто конвертация изображений в 3-х мерный график
 
-
-
-# [3D Визуализация Изображений](https://github.com/Veretion/3d-image-visualization) 
-Просто конвертация изображений в 3-х мерный график <br>
-<img src="/3d_images/example.png" alt="Оригинал" width="300" height="200"><br>
-<img src="/3d_images/2.PNG" alt="1" width="300" height="200">
-<img src="/3d_images/1.PNG" alt="2" width="300" height="200">
-<img src="/3d_images/3.PNG" alt="3" width="300" height="200">
-
-# [Онлайн отрисовка спектрограммы](https://github.com/Veretion/DS-Sandbox/tree/main/spectro) 
+## [Онлайн отрисовка спектрограммы](https://github.com/Veretion/DS-Sandbox/tree/main/spectro) 
 Далеко не самое достойное решение, но стабильное и работает на gpu, потом переделаю
 
 
