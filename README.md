@@ -10,7 +10,7 @@
 
 # [3D Визуализация Изображений](https://github.com/Veretion/3d-image-visualization) 
 Просто конвертация изображений в 3-х мерный график
-![]("https://github.com/Veretion/DS-Sandbox/blob/main/3d_images/example.png")
+![1]("https://github.com/Veretion/DS-Sandbox/blob/main/3d_images/example.png")
 ![]("https://github.com/Veretion/DS-Sandbox/blob/main/3d_images/1.PNG")
 ![]("https://github.com/Veretion/DS-Sandbox/blob/main/3d_images/2.PNG")
 ![]("https://github.com/Veretion/DS-Sandbox/blob/main/3d_images/3.PNG")
